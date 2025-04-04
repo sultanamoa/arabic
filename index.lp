@@ -260,7 +260,7 @@ mg.include('scripts/lua/header_authenticated.lp','r')
                             <tr>
                             <th>المستخدم</th>
                             <th>عدد الحجب</th>
-                            <th>نسبة الححب</th>
+                            <th>نسبة الحجب</th>
                             </tr>
                         </thead>
                         <tbody>
