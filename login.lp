@@ -55,7 +55,7 @@ mg.include('scripts/lua/header.lp','r')
                         <span class="fa fa-clock-rotate-left pwd-field form-control-feedback"></span>
                     </div>
                     <div class="form-group">
-                        <button type="submit" class="btn btn-primary form-control"><i class="fas fa-sign-in-alt"></i>&nbsp;&nbsp;&nbsp;Log in (uses cookie)</button>
+                        <button type="submit" class="btn btn-primary form-control"><i class="fas fa-sign-in-alt"></i>&nbsp;&nbsp;&nbsp;تسجيل الدخول  (يتم استخدام الكوكيز)</button>
                     </div>
                 </form>
                 <br>
