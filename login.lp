@@ -113,7 +113,7 @@ mg.include('scripts/lua/header.lp','r')
 
 <div class="login-donate">
     <div class="text-center" style="font-size:125%">
-        <strong><a href="https://www.aicbox.com/" rel="noopener" target="_blank"><i class="fa fa-heart text-red"></i> الامن السيبراني</a></strong> معلومات عن الامن السيبراني تجدها هنا
+        <strong><a href="https://www.aicbox.com/" rel="noopener" target="_blank"><i class="fa fa-heart text-red"></i> الامن السيبراني</a></strong> معلومات عن الامن السيبراني  
     </div>
 </div>
 <script defer src="<?=pihole.fileversion('scripts/js/footer.js')?>"></script>
